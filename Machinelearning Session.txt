@@ -1,0 +1,13 @@
+1. Machine Learning
+2. What types of machine Learning
+3. What things You'll need to learn for Machine Learning.
+3. Define Each Machine Learning type
+4. Supervised Machine Learning In detail
+5. Supervised Machine Learning Type
+6. Difference Between Regression and Classification
+7. Regression detail with example
+8. Classification detail with example
+9. Random Forest
+10. Unsupervised Machine Learning
+11. Types of Unsupervised learning
+12. Each type in detail.
